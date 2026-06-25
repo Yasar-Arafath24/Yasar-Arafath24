@@ -137,7 +137,7 @@ const yasar = {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🤖 **[CodeMetric AI ](https://github.com/Yasar-Arafath24/CodeMetric-AI)** | FastAPI · PostegreSQL .React + TypeScript · Supabase · Scikit Learn .Github Analytics | Full-stack SaaS HR ERP — RBAC, JWT auth, real-time payroll engine, attendance tracking & analytics dashboards |
+| 🤖 **[CodeMetric AI ](https://github.com/Yasar-Arafath24/CodeMetric-AI)** | FastAPI · PostegreSQL .React + TypeScript · Supabase · Scikit Learn .Github Analytics | an AI-Powered Developer Productivity Intelligence Platform designed to analyze repository activity, developer contributions, and project health. |
 
 </p>
 
