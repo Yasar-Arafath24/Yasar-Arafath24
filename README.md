@@ -137,7 +137,7 @@ const yasar = {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🤖 **[HRSync AI](https://github.com/YasarArafathM)** | React · FastAPI · Supabase · GCP | Full-stack SaaS HR ERP — RBAC, JWT auth, real-time payroll engine, attendance tracking & analytics dashboards |
+| 🤖 **[CodeMetric AI ](https://github.com/Yasar-Arafath24/CodeMetric-AI)** | FastAPI · PostegreSQL .React + TypeScript · Supabase · Scikit Learn .Github Analytics | Full-stack SaaS HR ERP — RBAC, JWT auth, real-time payroll engine, attendance tracking & analytics dashboards |
 
 </p>
 
@@ -146,16 +146,12 @@ const yasar = {
   <br/>
 
   **What it does:**  
-  A cloud-native, multi-tenant HR ERP platform enabling companies to manage their entire workforce lifecycle — from onboarding through payroll — in one unified system.
+  full-stack developer productivity SaaS platform tracking real-time repository health, commit frequency, and contribution metrics across multiple GitHub repositories.
+•	Engineered an automated data pipeline using SQLAlchemy ORM and APScheduler to scan repositories on a defined schedule, computing a custom Developer Productivity Index (DPI) with weighted scoring logic.
+•	Integrated AI-driven analytics to surface bottleneck alerts and trend anomalies; deployed on Render with Supabase PostgreSQL backend, achieving sub-2s API response times under test load.
 
-  **Key Engineering Decisions:**
-  - 🔐 **RBAC + JWT** — granular role-based access control with stateless authentication
-  - ⚡ **FastAPI + SQLAlchemy** — async REST APIs with ORM-based low-latency data transactions
-  - 🎨 **React + Vite + Tailwind** — mobile-first, responsive UI with near-instant HMR in dev
-  - 🗃️ **Supabase** — real-time PostgreSQL backend with built-in cloud auth
-  - ☁️ **GCP** — cloud hosting and scalable deployment infrastructure
 
-  **Impact:** Architected from zero to production as a solo engineer — covers payroll automation, attendance management, and live employee analytics.
+  **Impact:** Architected from zero to production as a solo engineer — covers Github Analyitcs,Total Commit, and Dveloper Productivity Index.
 </details>
 
 ---
@@ -180,16 +176,16 @@ const yasar = {
 
 | Degree | Institution | Year | GPA |
 |:------:|:-----------:|:----:|:---:|
-| B.Tech — Computer Science & Business Systems | EGS Pillay Engineering College, Nagapattinam | 2024 – 2028 | **8.4 / 10.0** |
-| Higher Secondary Certificate (HSC) | Govt. Higher Secondary School, Nagapattinam | 2023 – 2024 | — |
+| B.Tech — Computer Science & Business Systems | EGS Pillay Engineering College, Nagapattinam,India | 2024 – 2028 | **8.4 / 10.0** |
+| Higher Secondary Certificate (HSC) | Govt. Higher Secondary School, Thittacheri,India | 2023 – 2024 | — |
 
 ---
 
 ## 📚 Currently Learning
 
 ```
-🧩  System Design & Scalability Patterns
-⎈   Kubernetes & Container Orchestration  
+🧩  AWS - Advanced Cloud Architecture
+⎈   ML models and Automations 
 📡  GraphQL APIs
 🔬  Advanced DSA (Graphs, DP, Segment Trees)
 ```
@@ -203,7 +199,7 @@ const yasar = {
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <a href="https://www.linkedin.com/in/yasar-arafath-365490333/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
