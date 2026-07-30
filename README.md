@@ -176,7 +176,7 @@ const yasar = {
 
 | Degree | Institution | Year | GPA |
 |:------:|:-----------:|:----:|:---:|
-| B.Tech — Computer Science & Business Systems | EGS Pillay Engineering College, Nagapattinam,India | 2024 – 2028 | **8.4 / 10.0** |
+| B.Tech — Computer Science Engineering & Business Systems | EGS Pillay Engineering College, Nagapattinam,India | 2024 – 2028 | **8.4 / 10.0** |
 | Higher Secondary Certificate (HSC) | Govt. Higher Secondary School, Thittacheri,India | 2023 – 2024 | — |
 
 ---
